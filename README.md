@@ -6,6 +6,6 @@ A. ```function myFunction { }```
 
 B. ```define myFunction() { }```
 
-C. ```function myFunction() { }```
+✔C. ```function myFunction() { }```
 
 D. ```define myFunction { return value; }```
